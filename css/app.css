@@ -1,0 +1,21 @@
+body {
+    background-color: #194C66;
+    padding: 1em;
+    -webkit-box-shadow: inset 0 0 102px 0 rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 0 0 102px 0 rgba(0,0,0,0.75);
+    box-shadow: inset 0 0 102px 0 rgba(0,0,0,0.75);
+}
+.header-container {
+}
+.header-content {
+    margin-bottom: 1em;
+}
+.menu-container {
+}
+.saved-games-container {
+
+}
+.saved-games-container h4{
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
